@@ -1,5 +1,3 @@
-(https://media.licdn.com/dms/image/D4D16AQFZfvnuLyn7KA/profile-displaybackgroundimage-shrink_200_800/0/1676913313127?e=2147483647&v=beta&t=j-6nSfxdsdxgEjy7MKeJhCGpS6bmBXHgRkh9wMQSEmQ)
-
 ### Hi there 👋, I am Sumit Dasas
 #### Expert iOS, Android & Web QA Analyst | Manual & Automation
 ![Expert iOS, Android & Web QA Analyst | Manual & Automation]
