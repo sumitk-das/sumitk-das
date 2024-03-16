@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi there 👋, I am Sumit Dasas
+#### Expert iOS, Android & Web QA Analyst | Manual & Automation
+![Expert iOS, Android & Web QA Analyst | Manual & Automation](https://media.licdn.com/dms/image/D4D16AQFZfvnuLyn7KA/profile-displaybackgroundimage-shrink_200_800/0/1676913313127?e=2147483647&v=beta&t=j-6nSfxdsdxgEjy7MKeJhCGpS6bmBXHgRkh9wMQSEmQ)
 
-<!--
-**sumitk-das/sumitk-das** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have over 7 years of experience as a QA engineer working remote jobs in various countries and over 4 years of experience in management, quality control, and supervision.
 
-Here are some ideas to get you started:
+Skills: Test Case / Test Plan / Checklist / Mobile App Testing (IOS / Android) / Manual Testing / Automation Testing / Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧑🏻‍💻 I'm currently working on as a QA Enginee Remote jobs in various countries 
+- 🎓 I’m currently learning Automation Testing  
+- 💬 Ask me about Testing Process 
+- 📫 How to reach me: ask@sumitkdas.com 
+- 😄 Pronouns: He/ Him
+
+- 🛠️ Tools Used
+• Issue Tracking Tools - JIRA, Trello, Asana, BugHerd, GitLab
+• Automation Testing Tools - Selenium, Playwright, Cypress, Appium, Cucumber
+• Project Management Tools - Jira, Asana, Slack, SharePoint, Trello, Basecamp
+• API testing tools - Postman, Swagger
+• Compatibility testing - BrowserStack
+• Design - Figma, AdobeXD, InVision
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/sumitk-das)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/d4s5umit//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/D5umit)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/19396747/sumit-das)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sumitkdas.com/)  
+
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+
