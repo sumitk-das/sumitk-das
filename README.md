@@ -1,4 +1,4 @@
-### Hi there 👋, I am Sumit Dasas
+## Hi there 👋, I am Sumit Das
 #### Expert iOS, Android & Web QA Analyst | Manual & Automation
 
 I have over 7 years of experience as a QA engineer working remote jobs in various countries and over 4 years of experience in management, quality control, and supervision.
