@@ -1,7 +1,7 @@
 ## Hi there 👋, I am Sumit Das
 #### Expert iOS, Android & Web QA Analyst | Manual & Automation | Web Designer
 
-I have over 7 years of experience as a QA engineer working remote jobs in various countries and over 4 years of experience in management, quality control, and supervision.
+I have over 5 years of experience as a QA engineer working remote jobs in various countries and over 4 years of experience in management, quality control, and supervision.
 
 Skills: Test Case / Test Plan / Checklist / Mobile App Testing (IOS / Android) / Manual Testing / Automation Testing / Postman
 
