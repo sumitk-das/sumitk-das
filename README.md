@@ -8,7 +8,7 @@ Skills: Test Case / Test Plan / Checklist / Mobile App Testing (IOS / Android) /
 - 🧑🏻‍💻 I'm currently working on as a QA Enginee Remote jobs in various countries 
 - 🎓 I’m currently learning Automation Testing  
 - 💬 Ask me about Testing Process 
-- 📫 How to reach me: ask@sumitkdas.com 
+- 📫 How to reach me: sumit.d.shuvro@gmail.com 
 - 😄 Pronouns: He/ Him
 
   
