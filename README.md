@@ -112,7 +112,7 @@ With expertise in:
 
 ## 🌐 Connect With Me
 
-[![Phone](https://img.shields.io/badge/Phone-+8801300875989-blue?logo=whatsapp)](tel:+8801300875989)  [![Email](https://img.shields.io/badge/Email-dsumit.work%40gmail.com-red?logo=gmail)](mailto:sumit.d.shuvro@gmail.com)  [![Portfolio](https://img.shields.io/badge/Portfolio-Sumit%20Das-black?logo=google-chrome)](https://www.sumit-das.com)  [![GitHub](https://img.shields.io/badge/GitHub-sumitk--das-lightgrey?logo=github)](https://github.com/sumitk-das)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sumit%20K.%20Das-blue?logo=linkedin)](https://www.linkedin.com/in/sumitk-das)
+[![Phone](https://img.shields.io/badge/Phone-+8801300875989-blue?logo=whatsapp)](tel:+8801300875989)  [![Email](https://img.shields.io/badge/Email-sumit.d.shuvro%40gmail.com-red?logo=gmail)](mailto:sumit.d.shuvro@gmail.com)  [![Portfolio](https://img.shields.io/badge/Portfolio-Sumit%20Das-black?logo=google-chrome)](https://www.sumitkdas.pro)  [![GitHub](https://img.shields.io/badge/GitHub-sumitk--das-lightgrey?logo=github)](https://github.com/sumitk-das)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sumit%20K.%20Das-blue?logo=linkedin)](https://www.linkedin.com/in/sumitk-das)
 
 ---
 
