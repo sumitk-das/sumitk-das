@@ -36,6 +36,9 @@ With expertise in:
   <img src="https://img.shields.io/badge/Automation-Playwright-9cf?logo=playwright" height="30"><br>Playwright
 </td>
 <td align="center">
+  <img src="https://img.shields.io/badge/Automation-Selenium-9cf?logo=selenium" height="30"><br>Selenium
+</td>
+<td align="center">
   <img src="https://img.shields.io/badge/API%20Testing-Postman-orange?logo=postman" height="30"><br>Postman
 </td>
 <td align="center">
@@ -69,9 +72,6 @@ With expertise in:
 ### 💻 Programming Languages:
 <table>
 <tr>
-<td align="center">
-  <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript" height="30"><br>JavaScript
-</td>
 <td align="center">
   <img src="https://img.shields.io/badge/Python-blue?logo=python" height="30"><br>Python
 </td>
